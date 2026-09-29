@@ -7,13 +7,13 @@ box-sizing: border-box;
 
 body {
     font-family: "DM Sans";
-    background-color: #9cd4ff;
-    color: #354396;
+    background-color: #0079d5;
+    color: #ffffff;
 
 }
 .info-box {
-    border: 2px solid #dabfff;
-    background-color: #dabfff;
+    border: 2px solid #ffeec6;
+    background-color: #e4c171;
 }
 
 #main-header {
@@ -24,3 +24,4 @@ font-size: 30px;
 #website {
     font-size: 14px;
 }
+
